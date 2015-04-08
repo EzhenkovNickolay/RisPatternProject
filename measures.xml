@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measures>
+	<exhibitions>
+		<exhibition
+			name="Formula for success"
+			startDate="10.04.2015"
+			endDate="12.05.2015"
+			startTime="8:00"
+			endTime="20:00"
+			cost="145000"
+			phone="+375256666623"
+			place="Baker street, 5"
+			ageLimit="5+"
+			description="Surprisingly awesome blah blah blah come"/>
+
+		<exhibition
+			name="Wave of future"
+			startDate="15.04.2015"
+			endDate="19.04.2015"
+			startTime="8:00"
+			endTime="17:00"
+			cost="210000"
+			phone="+375256859401"
+			place="Madison street, 12"
+			ageLimit="0+"
+			description="Best of the best of the best"/>
+	</exhibitions>	
+	<performances>
+		<performance		
+			name="Mary and Madagaskar"
+			date="15.04.2015"		
+			startTime="17:00"
+			endTime="19:30"
+			cost="85000"
+			phone="+375295647831"
+			place="Gikalo street, 54"
+			ageLimit="3+"
+			genre="drama"
+			description="very very beautiful!!"/>
+
+		<performance		
+			name="Lady Boss"
+			date="23.05.2015"		
+			startTime="16:00"
+			endTime="19:00"
+			cost="104000"
+			phone="+375292236657"
+			place="Derjinskogo street, 54"
+			ageLimit="10+"
+			genre="drama"
+			description="no description"/>	
+	</performances>	
+	<concerts>
+		<concert
+			name="We are steel alive!"
+			date="33.18.1994"		
+			startTime="25:00"
+			endTime="16:00"
+			cost="10000000"
+			phone="+375298563188"
+			place="Museum street, 54"
+			ageLimit="6+"
+			description="Oh my God, what a men!?"/>
+
+		<concert
+			name="Show must go on!"
+			date="14.06.2015"		
+			startTime="20:00"
+			endTime="00:00"
+			cost="665000"
+			phone="+375256639485"
+			place="Lincoln's street, 54"
+			ageLimit="0+"
+			description="no description"/>
+	</concerts>
+</measures>
